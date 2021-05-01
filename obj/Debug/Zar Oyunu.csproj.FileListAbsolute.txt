@@ -1,0 +1,10 @@
+D:\VB\Zar Oyunu\bin\Debug\Zar Oyunu.exe.config
+D:\VB\Zar Oyunu\bin\Debug\Zar Oyunu.exe
+D:\VB\Zar Oyunu\bin\Debug\Zar Oyunu.pdb
+D:\VB\Zar Oyunu\obj\Debug\Zar Oyunu.csprojAssemblyReference.cache
+D:\VB\Zar Oyunu\obj\Debug\Zar_Oyunu.Form1.resources
+D:\VB\Zar Oyunu\obj\Debug\Zar_Oyunu.Properties.Resources.resources
+D:\VB\Zar Oyunu\obj\Debug\Zar Oyunu.csproj.GenerateResource.cache
+D:\VB\Zar Oyunu\obj\Debug\Zar Oyunu.exe
+D:\VB\Zar Oyunu\obj\Debug\Zar Oyunu.pdb
+D:\VB\Zar Oyunu\obj\Debug\Zar Oyunu.csproj.CoreCompileInputs.cache
